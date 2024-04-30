@@ -1,0 +1,16 @@
+E:\source\repos\P7Bot\publish\P7Bot.exe
+E:\source\repos\P7Bot\publish\P7Bot.dll
+E:\source\repos\P7Bot\publish\P7Bot.deps.json
+E:\source\repos\P7Bot\publish\P7Bot.runtimeconfig.json
+E:\source\repos\P7Bot\publish\P7Bot.pdb
+E:\source\repos\P7Bot\publish\Microsoft.Extensions.Configuration.dll
+E:\source\repos\P7Bot\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\source\repos\P7Bot\publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\source\repos\P7Bot\publish\Microsoft.Extensions.Configuration.Json.dll
+E:\source\repos\P7Bot\publish\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\source\repos\P7Bot\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\source\repos\P7Bot\publish\Microsoft.Extensions.FileProviders.Physical.dll
+E:\source\repos\P7Bot\publish\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\source\repos\P7Bot\publish\Microsoft.Extensions.Primitives.dll
+E:\source\repos\P7Bot\publish\Newtonsoft.Json.dll
+E:\source\repos\P7Bot\publish\Telegram.Bot.dll

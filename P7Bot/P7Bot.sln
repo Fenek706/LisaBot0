@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7Bot", "P7Bot\P7Bot.csproj", "{B72A5C72-656A-4227-B71B-DE59191B8C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72A5C72-656A-4227-B71B-DE59191B8C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72A5C72-656A-4227-B71B-DE59191B8C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72A5C72-656A-4227-B71B-DE59191B8C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72A5C72-656A-4227-B71B-DE59191B8C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D515AF8-99C6-4FAA-AD34-D9C00B220930}
+	EndGlobalSection
+EndGlobal
