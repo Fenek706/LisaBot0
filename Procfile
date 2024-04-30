@@ -1,0 +1,1 @@
+worker: c# p7bot
